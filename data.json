@@ -1,13 +1,7 @@
-
 [
   {
-    "url": "https://raw.githubusercontent.com/YOUR_USERNAME/my-wallpaper-db/main/images/wall1.jpg",
+    "url": "https://raw.githubusercontent.com/wallpaper74-max/my-wallpaper-db/main/images/image.png",
     "category": "Nature",
     "id": "1"
-  },
-  {
-    "url": "https://raw.githubusercontent.com/YOUR_USERNAME/my-wallpaper-db/main/images/wall2.jpg",
-    "category": "Cars",
-    "id": "2"
   }
 ]
